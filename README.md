@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam
 - 👀 I’m interested in all things functional programming and creating resuable, low-errow code.
-- 🌱 I’m currently learning Elixir and Javascript.
+- 🌱 I’m currently learning Elixir.
 - 💞️ I’m looking to collaborate on open source projects on Elixir.
 - 📫 How to reach me [Twitter](https://twitter.com/aar2dee21), Discord @aar2dee2#3760
 
