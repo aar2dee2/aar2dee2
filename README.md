@@ -9,7 +9,7 @@ I'm an Elixir and Phoenix programmer. Currently, I'm building Butter Beer, a web
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
-  ![Elixir](https://img.shields.io/badge/Elixir-Proficient-4B275F?style=for-the-badge&logo=elixir)
+  <img src="https://img.shields.io/badge/Elixir-Proficient-4B275F?style=for-the-badge&logo=elixir">
 </p>
 
 - I work with Elixir & Phoenix.
