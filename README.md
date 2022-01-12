@@ -4,7 +4,7 @@
 [![Replit Badge](https://img.shields.io/badge/-@aar2dee21-0c111c?style=flat&labelColor=white&logo=replit&logoColor=0c111c&link=https://replit.com/@aar2dee2)](https://replit.com/@aar2dee2)
 [![Discord Badge](https://img.shields.io/badge/-@aar2dee2-4549ef?style=flat&labelColor=white&logo=discord&logoColor=4549ef&link=https://discordapp.com/users/779534893947289650/)](https://discordapp.com/users/779534893947289650/)
 
-I'm an Elixir and Phoenix programmer. Currently, I'm building [Butter Beer](https://github.com/aar2dee2/ButterBeer), a web app for getting restaurant recommendations from your network. Earlier I built [StarCruiser NFT](https://github.com/aar2dee2/starscraper), a text-based NFT generator using Floki, HTTPoison, mogrify and ImageMacgick.
+I'm an Elixir and Phoenix programmer. Currently, I'm building [Butter Beer](https://github.com/aar2dee2/ButterBeer), a web app for getting restaurant recommendations from your network. Earlier I built [Starscraper NFT](https://github.com/aar2dee2/starscraper), a text-based NFT generator using Floki, HTTPoison, mogrify and ImageMacgick.
 
 I want to work on building scalable, reliable, distributed systems with Elixir.
 
