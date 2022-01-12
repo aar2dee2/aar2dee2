@@ -1,5 +1,9 @@
 👋 Hi, I’m Sam
 - I work with Elixir & Phoenix.
+- Comfortable using:
+-   Linux CLI
+-   Git/Github
+-   PostgreSQL & Ecto
 - Say Hi on [Twitter](https://twitter.com/aar2dee21) or Discord @aar2dee2#3760
 
 <!---
