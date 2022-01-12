@@ -10,16 +10,15 @@ I'm an Elixir and Phoenix programmer. Currently, I'm building Butter Beer, a web
 ## 🛠 Tech Stack
 | Languages                             |          Frameworks              |          Tools                   |
 | :---------------------------------: | :--------------------------------- | :---------------------------------: |
-| <p align="center"> 
-  <img src="https://img.shields.io/badge/Elixir-Proficient-4B275F?style=for-the-badge&logo=elixir">
+| <img src="https://img.shields.io/badge/Elixir-Proficient-4B275F?style=for-the-badge&logo=elixir">
   <img src="https://img.shields.io/badge/JavaScript-Competent-CC342D?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/Python-Competent-3178C6?style=for-the-badge&logo=python">
-</p> | <p align="center"> 
+  <img src="https://img.shields.io/badge/Python-Competent-3178C6?style=for-the-badge&logo=python"> 
+  | 
   <img src="https://img.shields.io/badge/Phoenix-Proficient-FF6900?style=for-the-badge&logo=elixir">
-</p> | <p align="center">
+ | 
   <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github">
-</p> |
+ |
  
 
 
