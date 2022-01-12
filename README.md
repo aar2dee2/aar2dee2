@@ -5,26 +5,21 @@
 I'm an Elixir and Phoenix programmer. Currently, I'm building Butter Beer, a web app for getting restaurant recommendations from your network.
 
 ## Github Metrics
-![Metrics](https://metrics.lecoq.io/aar2dee2?template=classic&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/aar2dee2?template=classic&languages=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta)
 
 ## 🛠 Tech Stack
 | Languages                             |          Frameworks              |          Tools                   |
 | :---------------------------------: | :--------------------------------- | :---------------------------------: |
-|
-<p align="center"> 
+| <p align="center"> 
   <img src="https://img.shields.io/badge/Elixir-Proficient-4B275F?style=for-the-badge&logo=elixir">
   <img src="https://img.shields.io/badge/JavaScript-Competent-CC342D?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/Python-Competent-3178C6?style=for-the-badge&logo=python">
-</p>
-|
-<p align="center"> 
+</p> | <p align="center"> 
   <img src="https://img.shields.io/badge/Phoenix-Proficient-FF6900?style=for-the-badge&logo=elixir">
-</p>
-|
-<p align="center">
+</p> | <p align="center">
   <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github">
-</p>
+</p> |
  
 
 
