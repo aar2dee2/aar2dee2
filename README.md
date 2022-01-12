@@ -1,4 +1,6 @@
-👋 Hi, I’m Sam
+# Hi I'm Sam 👋 
+
+[![Twitter Badge](https://img.shields.io/badge/-@aar2dee21-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aar2dee21)](https://twitter.com/aar2dee21)
 - I work with Elixir & Phoenix.
 - Comfortable using:
 -   Linux CLI
