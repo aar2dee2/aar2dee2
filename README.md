@@ -4,6 +4,9 @@
 
 I'm an Elixir and Phoenix programmer. Currently, I'm building Butter Beer, a web app for getting restaurant recommendations from your network.
 
+## Github Metrics
+![Metrics](https://metrics.lecoq.io/aar2dee2?template=classic&config.timezone=Asia%2FCalcutta)
+
 ## 🛠 Tech Stack
 | Languages                             |          Frameworks              |          Tools                   |
 | :---------------------------------: | :--------------------------------- | :---------------------------------: |
