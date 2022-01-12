@@ -1,8 +1,8 @@
 # Hi I'm Sam 👋 
 
-[![Twitter Badge](https://img.shields.io/badge/-@aar2dee21-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aar2dee21)](https://twitter.com/aar2dee21)
-[![Replit Badge](https://img.shields.io/badge/-@aar2dee21-0c111c?style=flat&labelColor=1ca0f1&logo=replit&logoColor=white&link=https://replit.com/@aar2dee2)](https://replit.com/@aar2dee2)
-[![Discord Badge](https://img.shields.io/badge/-@aar2dee2-4549ef?style=flat&labelColor=1ca0f1&logo=discord&logoColor=white&link=https://discordapp.com/users/779534893947289650/)](https://discordapp.com/users/779534893947289650/)
+[![Twitter Badge](https://img.shields.io/badge/-@aar2dee21-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/aar2dee21)](https://twitter.com/aar2dee21)
+[![Replit Badge](https://img.shields.io/badge/-@aar2dee21-0c111c?style=flat&labelColor=white&logo=replit&logoColor=0c111c&link=https://replit.com/@aar2dee2)](https://replit.com/@aar2dee2)
+[![Discord Badge](https://img.shields.io/badge/-@aar2dee2-4549ef?style=flat&labelColor=white&logo=discord&logoColor=4549ef&link=https://discordapp.com/users/779534893947289650/)](https://discordapp.com/users/779534893947289650/)
 
 I'm an Elixir and Phoenix programmer. Currently, I'm building Butter Beer, a web app for getting restaurant recommendations from your network. Earlier I built [StarCruiser NFT](https://github.com/aar2dee2/starscraper), a text-based NFT generator using mogrify and ImageMacgick.
 
