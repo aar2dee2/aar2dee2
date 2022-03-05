@@ -1,4 +1,4 @@
-# Hi I'm Sam 👋 
+# Hi 👋 
 
 [![Twitter Badge](https://img.shields.io/badge/-@aar2dee21-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/aar2dee21)](https://twitter.com/aar2dee21)
 [![Replit Badge](https://img.shields.io/badge/-@aar2dee2-0c111c?style=flat&labelColor=white&logo=replit&logoColor=0c111c&link=https://replit.com/@aar2dee2)](https://replit.com/@aar2dee2)
