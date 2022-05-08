@@ -13,8 +13,8 @@ I want to work on building apps with the React Next JS, Typescript & Elixir stac
 Links to Elixir Work I've done:
 
 1. OSS Contributions
-  a) [Livebook - Add Function to open notebook urls](https://github.com/livebook-dev/livebook/pull/986)
-  b) [Livebook - Add `url` arg to the CLI](https://github.com/livebook-dev/livebook/pull/947)
+  - [Livebook - Add Function to open notebook urls](https://github.com/livebook-dev/livebook/pull/986)
+  - [Livebook - Add `url` arg to the CLI](https://github.com/livebook-dev/livebook/pull/947)
 2. Personal Projects
   a) [Starscraper - a text-based NFT generator](https://github.com/aar2dee2/starscraper)
 3. Tutorials
