@@ -16,12 +16,12 @@ Links to Elixir Work I've done:
   - [Livebook - Add Function to open notebook urls](https://github.com/livebook-dev/livebook/pull/986)
   - [Livebook - Add `url` arg to the CLI](https://github.com/livebook-dev/livebook/pull/947)
 2. Personal Projects
-  a) [Starscraper - a text-based NFT generator](https://github.com/aar2dee2/starscraper)
+  - [Starscraper - a text-based NFT generator](https://github.com/aar2dee2/starscraper)
 3. Tutorials
-  a) [Running a Phoenix Server on Replit](https://replit.com/talk/templates/Running-a-Phoenix-server-Elixir-on-Replit/143119)
-  b) [Pascal Triangle in Elixir vs Python](https://replit.com/talk/learn/Functional-Programming-Pascal-Triangle-in-Elixir-vs-OOP-in-Python/142432)
-  c) [Elixir Basics: Part 1 - Data Types, Operators and Functions](https://replit.com/talk/learn/Elixir-Basics-Part-1-Data-types-operators-functions/140488)
-  d) [Elixir Basics - Part 2: Guards, Functions and Modules](https://replit.com/talk/learn/Elixir-Basics-Part-2-Guards-Functions-and-Modules/142200)
+  - [Running a Phoenix Server on Replit](https://replit.com/talk/templates/Running-a-Phoenix-server-Elixir-on-Replit/143119)
+  - [Pascal Triangle in Elixir vs Python](https://replit.com/talk/learn/Functional-Programming-Pascal-Triangle-in-Elixir-vs-OOP-in-Python/142432)
+  - [Elixir Basics: Part 1 - Data Types, Operators and Functions](https://replit.com/talk/learn/Elixir-Basics-Part-1-Data-types-operators-functions/140488)
+  - [Elixir Basics - Part 2: Guards, Functions and Modules](https://replit.com/talk/learn/Elixir-Basics-Part-2-Guards-Functions-and-Modules/142200)
 
 | Metrics                             |          Tech Stack                 |
 | :---------------------------------: | :--------------------------------- |
