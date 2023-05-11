@@ -14,6 +14,7 @@ I want to work on building apps with the React Next JS, Typescript & Elixir stac
 Links to Work I've done:
 
 1. OSS Contributions
+  - [Webex Integration for Cal.com](https://github.com/calcom/cal.com/pull/7651)
   - [Livebook - Add Function to open notebook urls](https://github.com/livebook-dev/livebook/pull/986)
   - [Livebook - Add `url` arg to the CLI](https://github.com/livebook-dev/livebook/pull/947)
   - [Livebook - Capture log from processes outside Livebook supervision](https://github.com/livebook-dev/livebook/pull/1235)
