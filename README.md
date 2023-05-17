@@ -5,11 +5,9 @@
 [![Replit Badge](https://img.shields.io/badge/-@aar2dee2-0c111c?style=flat&labelColor=white&logo=replit&logoColor=0c111c&link=https://replit.com/@aar2dee2)](https://replit.com/@aar2dee2)
 [![Discord Badge](https://img.shields.io/badge/-@aar2dee2-4549ef?style=flat&labelColor=white&logo=discord&logoColor=4549ef&link=https://discordapp.com/users/779534893947289650/)](https://discordapp.com/users/779534893947289650/)
 
-I'm a React and Elixir programmer. Currently, I'm building [Telborg](https://www.telborg.com/), a platform for B2B software startups to find relevant customers quickly, and at low-cost.
+I'm work with React (in Typescript), PostgreSQL and Python (mostly Pandas). Currently, I'm building [Telborg](https://www.telborg.com/) - GPT for Energy professionals.
 
-Other projects: [f1omo](https://www.f1omo.com/), a service for Formula 1 fans to be updated on everything related to the sport through WhatsApp notifications.
-
-I want to work on building apps with the React Next JS, Typescript & Elixir stack. 
+Other projects: [f1omo](https://www.f1omo.com/), a service for Formula 1 fans to be updated on everything related to the sport through WhatsApp notifications. 
 
 Links to Work I've done:
 
