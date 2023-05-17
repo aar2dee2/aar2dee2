@@ -7,7 +7,7 @@
 
 I'm work with React (in Typescript), PostgreSQL and Python (mostly Pandas). Currently, I'm building [Telborg](https://www.telborg.com/) - GPT for Energy professionals.
 
-Other projects: [f1omo](https://www.f1omo.com/), a service for Formula 1 fans to be updated on everything related to the sport through WhatsApp notifications. 
+Other projects: [f1omo](https://www.f1omo.com/) - an AI news summarizer and chat for Formula 1 fans.
 
 Links to Work I've done:
 
@@ -19,7 +19,7 @@ Links to Work I've done:
   - [Cal.com - Images in slider will have fixed height, variable width](https://github.com/calcom/cal.com/pull/2916)
   - [Supabase - Update image and video links for Blog](https://github.com/supabase/supabase/pull/3999)
 2. Personal Projects
-  - [Starscraper - a text-based NFT generator](https://github.com/aar2dee2/starscraper)
+  - [f1omo - AI news summarizer and chat for Formula 1 fans](https://www.f1omo.com/)
 3. Tutorials
   - [Running a Phoenix Server on Replit](https://replit.com/talk/templates/Running-a-Phoenix-server-Elixir-on-Replit/143119)
   - [Pascal Triangle in Elixir vs Python](https://replit.com/talk/learn/Functional-Programming-Pascal-Triangle-in-Elixir-vs-OOP-in-Python/142432)
