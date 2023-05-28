@@ -12,6 +12,7 @@ Other projects: [f1omo](https://www.f1omo.com/) - an AI news summarizer and chat
 Links to Work I've done:
 
 1. OSS Contributions
+  - [Make.com Integration for Cal.com](https://github.com/calcom/cal.com/pull/8897)
   - [Webex Integration for Cal.com](https://github.com/calcom/cal.com/pull/7651)
   - [Livebook - Add Function to open notebook urls](https://github.com/livebook-dev/livebook/pull/986)
   - [Livebook - Add `url` arg to the CLI](https://github.com/livebook-dev/livebook/pull/947)
