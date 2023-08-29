@@ -21,6 +21,7 @@ Links to Work I've done:
 2. Personal Projects
   - [f1omo - AI news summarizer and chat for Formula 1 fans](https://www.f1omo.com/)
 3. Tutorials
+  - [Build & Deploy a reusable Web Scraper with Elixir Livebook](https://aar2dee2.substack.com/p/build-deploy-web-scraper-elixir-livebook)
   - [Running a Phoenix Server on Replit](https://replit.com/talk/templates/Running-a-Phoenix-server-Elixir-on-Replit/143119)
   - [Pascal Triangle in Elixir vs Python](https://replit.com/talk/learn/Functional-Programming-Pascal-Triangle-in-Elixir-vs-OOP-in-Python/142432)
   - [Elixir Basics: Part 1 - Data Types, Operators and Functions](https://replit.com/talk/learn/Elixir-Basics-Part-1-Data-types-operators-functions/140488)
