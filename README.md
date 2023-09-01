@@ -4,7 +4,7 @@
 [![Replit Badge](https://img.shields.io/badge/-@aar2dee2-0c111c?style=flat&labelColor=white&logo=replit&logoColor=0c111c&link=https://replit.com/@aar2dee2)](https://replit.com/@aar2dee2)
 [![Discord Badge](https://img.shields.io/badge/-@aar2dee2-4549ef?style=flat&labelColor=white&logo=discord&logoColor=4549ef&link=https://discordapp.com/users/779534893947289650/)](https://discordapp.com/users/779534893947289650/)
 
-I work with React (in Typescript), PostgreSQL and Python (mostly Pandas). Currently, I'm building [Telborg](https://www.telborg.com/) - GPT for Climate & Energy professionals.
+I work with React (in Typescript), PostgreSQL and Python (mostly Pandas). Currently, I'm building [Telborg](https://www.telborg.com/) - AI for Climate Research and Writing.
 
 Other projects: [f1omo](https://www.f1omo.com/) - an AI news summarizer and chat for Formula 1 fans.
 
