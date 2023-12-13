@@ -4,9 +4,12 @@
 [![Replit Badge](https://img.shields.io/badge/-@aar2dee2-0c111c?style=flat&labelColor=white&logo=replit&logoColor=0c111c&link=https://replit.com/@aar2dee2)](https://replit.com/@aar2dee2)
 [![Discord Badge](https://img.shields.io/badge/-@aar2dee2-4549ef?style=flat&labelColor=white&logo=discord&logoColor=4549ef&link=https://discordapp.com/users/779534893947289650/)](https://discordapp.com/users/779534893947289650/)
 
-I work with React (in Typescript), PostgreSQL, Python (mostly Pandas) and Elixir. Currently, I'm building [Telborg](https://www.telborg.com/) - AI for Climate Research and Writing.
+I work with React (in Typescript), PostgreSQL, Python (mostly Pandas) and Elixir. 
+Currently, I'm building [Telborg](https://www.telborg.com/) - AI for fast, credible Climate Research.
 
-Other projects: [f1omo](https://www.f1omo.com/) - an AI news summarizer and chat for Formula 1 fans.
+Other projects:
+  - [Summary with AI](https://summarywithai.com) - Summarize and read large PDFs (upto 200 MB) using AI
+  - [f1omo](https://www.f1omo.com/) - an AI news summarizer and chat for Formula 1 fans.
 
 Links to Work I've done:
 
