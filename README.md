@@ -19,8 +19,6 @@ Links to Work I've done:
   - [Livebook - Add Function to open notebook urls](https://github.com/livebook-dev/livebook/pull/986)
   - [Livebook - Add `url` arg to the CLI](https://github.com/livebook-dev/livebook/pull/947)
   - [Livebook - Capture log from processes outside Livebook supervision](https://github.com/livebook-dev/livebook/pull/1235)
-  - [Cal.com - Images in slider will have fixed height, variable width](https://github.com/calcom/cal.com/pull/2916)
-  - [Supabase - Update image and video links for Blog](https://github.com/supabase/supabase/pull/3999)
 2. Personal Projects
   - [f1omo - AI news summarizer and chat for Formula 1 fans](https://www.f1omo.com/)
 3. Tutorials
