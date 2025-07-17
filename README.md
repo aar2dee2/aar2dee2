@@ -4,10 +4,21 @@
 [![Replit Badge](https://img.shields.io/badge/-@aar2dee2-0c111c?style=flat&labelColor=white&logo=replit&logoColor=0c111c&link=https://replit.com/@aar2dee2)](https://replit.com/@aar2dee2)
 [![Discord Badge](https://img.shields.io/badge/-@aar2dee2-4549ef?style=flat&labelColor=white&logo=discord&logoColor=4549ef&link=https://discordapp.com/users/779534893947289650/)](https://discordapp.com/users/779534893947289650/)
 
-I work with React (in Typescript), PostgreSQL, Python (mostly Pandas) and Elixir. 
-Currently, I'm building [Telborg](https://www.telborg.com/) - AI for fast, credible Climate Research.
+I work mostly with Elixir and have built some projects with React (in Typescript) and Python as well.
+
+Currently, I'm building [Telborg](https://www.telborg.com/) - AI for fast, credible Climate Research. Telborg uses Elixir, Phoenix Liveview and a Postges DB.
 
 I also spent a few weeks interning with the Cal.com team in September-October 2023, working on integrations for their app store.
+
+Here are some things I've built/worked with:
+- [Oban](https://github.com/oban-bg/oban) for scheduling and process complex data processing jobs in Elixir
+- Working with multiple LLM models from Anthropic, OpenAI, Together, Google to process large amounts of data
+- Triggers, Postgres functions, database webhooks, pg crons, user management roles and policies, Deno edge functions in Supabase
+- Supabase auth integration with Phoenix
+- Creating and processing large datasets with Pandas
+- AWS Lambda handlers to process large numbers of documents and generate embeddings
+- Reusable web scraper built with Elixir. [Tutorial here](https://aar2dee2.substack.com/p/build-deploy-web-scraper-elixir-livebook)
+
 
 Other projects:
   - [Summary with AI](https://summarywithai.com) - Summarize and read large PDFs (upto 200 MB) using AI
@@ -15,16 +26,13 @@ Other projects:
 
 Links to Work I've done:
 
-1. OSS Contributions
+OSS Contributions
   - [Make.com Integration for Cal.com](https://github.com/calcom/cal.com/pull/8897)
   - [Webex Integration for Cal.com](https://github.com/calcom/cal.com/pull/7651)
   - [Livebook - Add Function to open notebook urls](https://github.com/livebook-dev/livebook/pull/986)
   - [Livebook - Add `url` arg to the CLI](https://github.com/livebook-dev/livebook/pull/947)
   - [Livebook - Capture log from processes outside Livebook supervision](https://github.com/livebook-dev/livebook/pull/1235)
-2. Personal Projects
-  - [f1omo - AI news summarizer and chat for Formula 1 fans](https://f1omo.vercel.app/)
-3. Tutorials
-  - [Build & Deploy a reusable Web Scraper with Elixir Livebook](https://aar2dee2.substack.com/p/build-deploy-web-scraper-elixir-livebook)
+
 
 | Metrics                             |          Tech Stack                 |
 | :---------------------------------: | :--------------------------------- |
