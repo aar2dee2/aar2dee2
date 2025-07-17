@@ -7,6 +7,8 @@
 I work with React (in Typescript), PostgreSQL, Python (mostly Pandas) and Elixir. 
 Currently, I'm building [Telborg](https://www.telborg.com/) - AI for fast, credible Climate Research.
 
+I also spent a few weeks interning with the Cal.com team in September-October 2023, working on integrations for their app store.
+
 Other projects:
   - [Summary with AI](https://summarywithai.com) - Summarize and read large PDFs (upto 200 MB) using AI
   - [f1omo](https://f1omo.vercel.app/) - an AI news summarizer and chat for Formula 1 fans.
