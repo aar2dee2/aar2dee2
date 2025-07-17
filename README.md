@@ -24,7 +24,6 @@ Other projects:
   - [Summary with AI](https://summarywithai.com) - Summarize and read large PDFs (upto 200 MB) using AI
   - [f1omo](https://f1omo.vercel.app/) - an AI news summarizer and chat for Formula 1 fans.
 
-Links to Work I've done:
 
 OSS Contributions
   - [Make.com Integration for Cal.com](https://github.com/calcom/cal.com/pull/8897)
