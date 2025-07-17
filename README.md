@@ -9,7 +9,7 @@ Currently, I'm building [Telborg](https://www.telborg.com/) - AI for fast, credi
 
 Other projects:
   - [Summary with AI](https://summarywithai.com) - Summarize and read large PDFs (upto 200 MB) using AI
-  - [f1omo](https://www.f1omo.com/) - an AI news summarizer and chat for Formula 1 fans.
+  - [f1omo](https://f1omo.vercel.app/) - an AI news summarizer and chat for Formula 1 fans.
 
 Links to Work I've done:
 
@@ -20,13 +20,9 @@ Links to Work I've done:
   - [Livebook - Add `url` arg to the CLI](https://github.com/livebook-dev/livebook/pull/947)
   - [Livebook - Capture log from processes outside Livebook supervision](https://github.com/livebook-dev/livebook/pull/1235)
 2. Personal Projects
-  - [f1omo - AI news summarizer and chat for Formula 1 fans](https://www.f1omo.com/)
+  - [f1omo - AI news summarizer and chat for Formula 1 fans](https://f1omo.vercel.app/)
 3. Tutorials
   - [Build & Deploy a reusable Web Scraper with Elixir Livebook](https://aar2dee2.substack.com/p/build-deploy-web-scraper-elixir-livebook)
-  - [Running a Phoenix Server on Replit](https://replit.com/talk/templates/Running-a-Phoenix-server-Elixir-on-Replit/143119)
-  - [Pascal Triangle in Elixir vs Python](https://replit.com/talk/learn/Functional-Programming-Pascal-Triangle-in-Elixir-vs-OOP-in-Python/142432)
-  - [Elixir Basics: Part 1 - Data Types, Operators and Functions](https://replit.com/talk/learn/Elixir-Basics-Part-1-Data-types-operators-functions/140488)
-  - [Elixir Basics - Part 2: Guards, Functions and Modules](https://replit.com/talk/learn/Elixir-Basics-Part-2-Guards-Functions-and-Modules/142200)
 
 | Metrics                             |          Tech Stack                 |
 | :---------------------------------: | :--------------------------------- |
